@@ -1,0 +1,39 @@
+{
+  "name": "CourseWeb",
+  "version": "0.0.1",
+  "description": "Awesome project developed with TypeORM.",
+  "scripts": {
+    "start": "ts-node src/app.ts"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.16.7",
+    "@types/cookie-parser": "^1.4.1",
+    "@types/errorhandler": "0.0.32",
+    "@types/method-override": "0.0.31",
+    "@types/morgan": "^1.7.35",
+    "@types/node": "^8.0.29",
+    "consolidate": "^0.14.5",
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-ts": "^6.0.0-beta.16",
+    "html": "^1.0.0",
+    "swig": "^1.4.2",
+    "ts-node": "3.3.0",
+    "typeorm": "^0.1.1",
+    "typescript": "^2.5.2"
+  },
+  "dependencies": {
+    "@types/node": "^8.0.47",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
+    "morgan": "^1.9.0",
+    "mysql": "^2.14.1",
+    "pug": "^2.0.0-rc.4",
+    "reflect-metadata": "^0.1.10",
+    "typeorm": "^0.1.1"
+  }
+}
